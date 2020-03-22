@@ -87,3 +87,4 @@ D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTod
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.csproj.CopyComplete
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.dll
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.pdb
+D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\Index.cshtml.g.cs
