@@ -132,3 +132,5 @@ D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp3.1\zh-CN\Humaniz
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp3.1\zh-Hans\Humanizer.resources.dll
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp3.1\zh-Hant\Humanizer.resources.dll
 D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\AddItemPartial.cshtml.g.cs
+D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\ManageUsers\Index.cshtml.g.cs
+D:\Coding C#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminActionsPartial.cshtml.g.cs

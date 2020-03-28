@@ -20521,6 +20521,11 @@
   "RootNamespace": "AspNetCoreTodo",
   "Documents": [
     {
+      "FilePath": "d:\\Coding C#\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\ManageUsers\\Index.cshtml",
+      "TargetPath": "Views\\ManageUsers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Coding C#\\AspNetCoreTodo\\AspNetCoreTodo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -20528,6 +20533,11 @@
     {
       "FilePath": "d:\\Coding C#\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Coding C#\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Shared\\_AdminActionsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminActionsPartial.cshtml",
       "FileKind": "mvc"
     },
     {

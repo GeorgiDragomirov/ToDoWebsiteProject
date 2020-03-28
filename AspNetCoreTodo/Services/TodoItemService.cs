@@ -40,7 +40,7 @@ namespace AspNetCoreTodo.Services
         public async Task<bool> MarkDoneAsync(Guid id, IdentityUser user)
         {
             var item = await _context.Items
-                .Where(x => x.Id == id)
+                .Where(x => x.Id == id&& x.UserId == user.Id)
                 .SingleOrDefaultAsync();
 
             if (item == null) return false;

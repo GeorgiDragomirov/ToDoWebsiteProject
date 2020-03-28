@@ -71,6 +71,10 @@ namespace AspNetCoreTodo.Controllers
                 return RedirectToAction("Index");
             }
 
+            var currentUser = await _userManager.GetUserAsync(User);
+
+            if (currentUser == null) return Challenge();
+
             var successful = await _todoItemService.MarkDoneAsync(id, currentUser);
             if (!successful)
             {
